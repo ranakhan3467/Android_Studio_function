@@ -250,4 +250,7 @@ fun main() {  // main funtion
     myObj.myFunction()
 
     // Example and exercise https://www.w3schools.com/kotlin/kotlin_examples.php
+
+    val newObj=read()
+    println("Output: "+newObj.getInt())
 }
