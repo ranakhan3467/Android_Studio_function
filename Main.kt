@@ -253,4 +253,23 @@ fun main() {  // main funtion
 
     val newObj=read()
     println("Output: "+newObj.getInt())
+// list in Kotlin
+    println("without index in list")
+    val list = listOf<String>("Fardin","Dipu","Pousi","Shovon");
+    for(name in list){
+        println(name)
+    }
+    println("")
+    println("Using index in list") ;println("")
+    for(index in 0..list.size-1){
+        println(list[index])    // print using index
+    }
+
+    //map in kotlin variable_name:map<k,v> = mapOf(source) k-> means key v-> means values
+    val myMap:Map<Int,String> = mapOf(1 to "Fardin",2 to "pousi",3 to "depu")
+
+    for(keys in myMap.keys){
+        println("key = $keys and Values = ${myMap.get(keys)}")
+    }
+    
 }
