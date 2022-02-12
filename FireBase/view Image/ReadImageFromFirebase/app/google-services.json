@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "45068122206",
+    "project_id": "readimagefromfirebase",
+    "storage_bucket": "readimagefromfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45068122206:android:9b074ebc3b9880cab6dccf",
+        "android_client_info": {
+          "package_name": "com.example.readimagefromfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "45068122206-nrslq0nb0ghb127vbapcd0ic068qfca9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLYeGgFnmtZAocMA3enoORAZSr-D032mw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "45068122206-nrslq0nb0ghb127vbapcd0ic068qfca9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
