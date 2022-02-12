@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "703453947313",
+    "project_id": "fir-image-f8048",
+    "storage_bucket": "fir-image-f8048.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703453947313:android:3f544a68a911b7dde58990",
+        "android_client_info": {
+          "package_name": "com.example.firebaseimage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703453947313-dnqrroj6pgcq1juevmifjuhgrurov31u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQQAGNSqj9eiNYUm57MONyue3FSkowOCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703453947313-dnqrroj6pgcq1juevmifjuhgrurov31u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
