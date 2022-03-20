@@ -1,0 +1,1 @@
+startActivity(Intent(this@Home,SignUpActivity::class.java))
